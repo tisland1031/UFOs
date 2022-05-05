@@ -2,7 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# adding additional files
+app_1.js
+filter_1.png
+filter_2.png
+filter_3.png
+paragraph.png
+Background_1.png
+UFO_sighting.png
+shape.png
 # C extensions
 *.so
 
