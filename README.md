@@ -14,6 +14,7 @@ In the middle of the page, is a brief synopsis from an Ufologist.
 
 ![UFO_sighting](https://user-images.githubusercontent.com/96746207/166803617-c7b4d9d3-5a7a-4c62-ac24-11682990142c.png)
 ![paragraph](https://user-images.githubusercontent.com/96746207/166803627-e374c475-81f1-471e-8b2b-21184c6ffe45.png)
+
 Displayed below is the application for filters and the steps on how to execute a search. 
 
 1.	Enter the date in the given format (mm/dd/yyyy). For example, 1/1/2020 was entered into this field. 
@@ -25,9 +26,13 @@ Displayed below is the application for filters and the steps on how to execute a
 ![filter_2](https://user-images.githubusercontent.com/96746207/166803636-c1ab2424-99d9-4cfc-b46b-8a85a11f4dfd.png)
 
 3.	Filtering the city is another feature. For this example, El Cajon (el cajon) was added to the filter, and table was updated. Remember the note from above: input only lower-case words.
+
 ![filter_3](https://user-images.githubusercontent.com/96746207/166803647-04b39f4e-dcbd-4480-b07a-b68fe408d761.png)
 
-4.	The last filter is shape. 
+4. The last filter addresses shape. For the example below, light was entered, and all fields were filled except for the date. This narrowed the search and displayed two outcomes.
+
+![shape](https://user-images.githubusercontent.com/96746207/166852670-9559b3c6-0c7b-4a37-84ca-6062ff08bbd2.png)
+
 
 ### None of the filters are dependent on each other and users may search separately or complete all the fields. 
 ## Summary
